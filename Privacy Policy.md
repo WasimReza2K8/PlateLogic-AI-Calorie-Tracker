@@ -1,4 +1,4 @@
-PlateLogic: AI Calorie Tracker Privacy Policy
+##PlateLogic: AI Calorie Tracker Privacy Policy
 
 1. Introduction
 PlateLogic: AI Calorie Tracker is a mobile app that helps users track their daily calorie intake using artificial intelligence. We are committed to protecting the privacy of our users and this Privacy Policy outlines how we collect, use, and protect your personal data.
