@@ -1,4 +1,4 @@
-Terms of Service for PlateLogic: AI Calorie Tracker
+# Terms of Service for PlateLogic: AI Calorie Tracker
 
 ## Introduction
 1. These Terms of Service ("Terms") govern your use of the PlateLogic: AI Calorie Tracker mobile application ("App") and any services provided by us through the App.
